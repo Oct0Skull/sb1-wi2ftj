@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #65adf1;
+  color: white;
+}
+
+.search-bar {
+  background-color: white;
+  border-radius: 8px;
+  margin: 8px;
+}
